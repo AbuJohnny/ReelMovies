@@ -1,0 +1,44 @@
+{
+    "movies": [
+        {
+            "title": "Forrest Gump",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+        },
+        {
+            "title": "The Usual Suspects",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=Q0eCiCinc4E"
+        },
+        {
+            "title": "Cast Away",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Cast_away_film_poster.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=4tVklCz2jcI"
+        },
+        {
+            "title": "Shawshank Redemption",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/ms/thumb/8/81/ShawshankRedemptionMoviePoster.jpg/220px-ShawshankRedemptionMoviePoster.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=NmzuHjWmXOc"
+        },
+        {
+            "title": "The Dark Knight Rises",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=g8evyE9TuYk"
+        },
+        {
+            "title": "Saving Private Ryan",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=RYExstiQlLc"
+        },
+        {
+            "title": "The Godfather",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/ms/1/1c/Godfather_ver1.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=kTlhEX0kmL8"
+        },
+        {
+            "title": "WALL-E",
+            "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg",
+            "yt_trailer_url": "https://www.youtube.com/watch?v=alIq_wG9FNk"
+        }
+    ]
+}
