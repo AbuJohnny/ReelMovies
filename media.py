@@ -1,4 +1,4 @@
-class Movie():
+class Movie:
     """Movie class
 
     Attributes:
@@ -7,7 +7,7 @@ class Movie():
         trailer_youtube_url (str): Url of Youtube trailer
     """
 
-    def __init__ (self, title, poster_image_url, trailer_youtube_url):
+    def __init__(self, title, poster_image_url, trailer_youtube_url):
         """Instantiate a Movie object
 
         Args:
