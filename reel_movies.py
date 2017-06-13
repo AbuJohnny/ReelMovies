@@ -1,6 +1,6 @@
-from entertainment_center.media import Movie
+from media import Movie
+import fresh_tomatoes
 import json
-from entertainment_center import fresh_tomatoes
 
 json_path = "data/movies.json"
 
