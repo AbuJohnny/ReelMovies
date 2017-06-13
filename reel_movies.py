@@ -29,8 +29,8 @@ def get_movies_from_json(json_file_path):
                 ))
 
     except IOError:
-        print 'Error while trying to parse JSON data: File "' +\
-            + json_file_path +\
+        print 'Error while trying to parse JSON data: File "' + \
+            json_file_path + \
             '" could not be opened'
         return None
 
@@ -38,14 +38,13 @@ def get_movies_from_json(json_file_path):
         print 'Error while trying to parse JSON data: Invalid JSON'
         return None
 
-    finally:
-        return movies
+    return movies
 
 
 if __name__ == "__main__":
     json_file_path = "data/movies.json"
     movies = get_movies_from_json(json_file_path)
 
-    # Do not create and open the webpage if no movies are parsed
+    # Do not create and open the webpage if error during parsing
     if type(movies) is list:
         fresh_tomatoes.open_movies_page(movies)
